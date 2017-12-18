@@ -1,0 +1,11 @@
+Instalação:
+Execulte o install.sh
+
+Remoção:
+Execulte o remove.sh
+
+Como usar:
+digite 'avaliação' para execultar o programa
+escolha o desenvolvedor do qual deseja ver a nota
+
+obs:o Eexeculte foi proposital.
